@@ -1,0 +1,8 @@
+D:\workstations\.NET\ConsoleApp5\.NET-hello-world\create a shape\create a shape\bin\Debug\create a shape.exe.config
+D:\workstations\.NET\ConsoleApp5\.NET-hello-world\create a shape\create a shape\bin\Debug\create a shape.exe
+D:\workstations\.NET\ConsoleApp5\.NET-hello-world\create a shape\create a shape\bin\Debug\create a shape.pdb
+D:\workstations\.NET\ConsoleApp5\.NET-hello-world\create a shape\create a shape\obj\Debug\create a shape.csproj.AssemblyReference.cache
+D:\workstations\.NET\ConsoleApp5\.NET-hello-world\create a shape\create a shape\obj\Debug\create a shape.csproj.SuggestedBindingRedirects.cache
+D:\workstations\.NET\ConsoleApp5\.NET-hello-world\create a shape\create a shape\obj\Debug\create a shape.csproj.CoreCompileInputs.cache
+D:\workstations\.NET\ConsoleApp5\.NET-hello-world\create a shape\create a shape\obj\Debug\create a shape.exe
+D:\workstations\.NET\ConsoleApp5\.NET-hello-world\create a shape\create a shape\obj\Debug\create a shape.pdb
